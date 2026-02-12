@@ -1,6 +1,11 @@
 # Resume
 
-Repository for my HTML resume: single master version that can be customized per job application. Published via GitHub Pages for direct access.
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-success?logo=github)](https://danielgorgonha.github.io/curriculum/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+Repository for my HTML resume: single master version that can be customized per job application.
+
+**🌐 Live Preview:** [danielgorgonha.github.io/curriculum](https://danielgorgonha.github.io/curriculum/)
 
 ---
 
@@ -27,11 +32,11 @@ Repository for my HTML resume: single master version that can be customized per 
 
 ## GitHub Pages
 
-To publish as web page:
+**Status:** ✅ Active and deployed
 
-1. Repo → **Settings** → **Pages** → Source: **Deploy from a branch**
-2. Branch: `main` (or `master`), folder **/ (root)**
-3. Save. Page will be at `https://yourusername.github.io/curriculum/`
+**Live URL:** https://danielgorgonha.github.io/curriculum/
+
+**Auto-deploy:** Every push to `master` branch automatically rebuilds and publishes the site (~1-2 minutes).
 
 ---
 
